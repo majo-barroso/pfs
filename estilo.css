@@ -1,0 +1,77 @@
+body {
+  margin: 50;
+  background-color: rgb(241, 165, 177);
+}
+
+header {
+  font-size: 2rem;
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+nav {
+  background-color: rgb(196, 21, 21);
+  border-radius: 10rem;
+  padding: 25px;
+}
+nav p {
+  margin: 0;
+}
+nav a {
+  transition: color 0.3s ease;
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2rem;
+  width: 40%;
+  text-align: auto;
+  margin-left: center;
+  margin-right: auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 5px 5px rgb(8, 1, 1);
+  color: white;
+}
+h2 {
+  font-size: 3rem;
+  width: 40%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 3px 3px rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+h3 {
+  width: 40%;
+  text-align: center;
+  margin-left: center;
+  margin-right: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(0, 0, 0);
+}
+
+.header_img {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container_inicio .container_inicio-img {
+  width: 1000px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header_img {
+  padding: 15px;
+  width: 180px;
+  height: 180px;
+  margin: 0 center;
+}
